@@ -1,0 +1,9 @@
+alts_links:
+- https://www.heroku.com/
+alts_names:
+- Heroku
+category: Platform as a service
+company_name: Kubero
+description: An open source alternative to Heroku running on Kubernetes
+gh_link: https://github.com/kubero-dev/kubero
+link: https://www.kubero.dev/
